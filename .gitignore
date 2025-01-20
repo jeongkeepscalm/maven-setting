@@ -1,5 +1,3 @@
-
-
 # IDE 설정 파일
 .idea/
 .settings/
@@ -16,6 +14,3 @@ out/
 
 # 기타
 .DS_Store
-
-# 현재 파일 업로드 경로
-src/main/webapp/upload/
